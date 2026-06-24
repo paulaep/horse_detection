@@ -1,6 +1,6 @@
-# Horse Detection in Thermal Imagery
+# Horse Detection in Imagery
 
-Object detection on a custom thermal image dataset using Faster R-CNN and RetinaNet (PyTorch).
+Object detection on a custom image dataset using Faster R-CNN and RetinaNet (PyTorch).
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project explores object detection in thermal imagery for a single class (ho
 
 ## Dataset
 
-- **200 thermal images** collected and annotated manually using Label Studio
+- **200 images** collected and annotated manually using Label Studio
 - Bounding box annotations exported in COCO format
 - Single class: `horse`
 - 160 / 40 train/test split (seed 42)
