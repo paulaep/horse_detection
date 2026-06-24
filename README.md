@@ -4,7 +4,7 @@ Object detection on a custom image dataset using Faster R-CNN and RetinaNet (PyT
 
 ## Overview
 
-This project explores object detection in thermal imagery for a single class (horse). The full pipeline was built from scratch: dataset collection and annotation, model fine-tuning, evaluation, and inference timing comparison between a two-stage and a one-stage detector.
+This project explores object detection in imagery for a single class (horse). The full pipeline was built from scratch: dataset collection and annotation, model fine-tuning, evaluation, and inference timing comparison between a two-stage and a one-stage detector.
 
 ## Dataset
 
